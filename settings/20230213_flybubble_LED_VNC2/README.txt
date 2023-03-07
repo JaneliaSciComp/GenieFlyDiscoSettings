@@ -14,3 +14,6 @@ added parameters for APT tracking
 20230213 from - 20220913_flybubble_LED_VNC2
 adding parameters for apt results movie
 
+20230307
+updated the lbl file in apt_params.txt 
+Same tracker just updated the slots for tracking and training to work with APT update
