@@ -1,2 +1,2 @@
 /groups/branson/home/bransonlab/JAABAProjectFiles/FlyBubble/Walk_RM.jab
-/groups/branson/home/robiea/Code_versioned/BransonFlyDiscoSettings/settings/20230213_flybubble_LED_VNC2
+/groups/branson/home/bransonlab/JAABAProjectFiles/FlyBubble/Walk2p1.jab
