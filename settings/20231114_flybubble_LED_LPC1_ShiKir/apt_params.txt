@@ -5,4 +5,4 @@ singularityimg,/groups/branson/bransonlab/apt/sif/apt_20230427_tf211_pytorch113_
 gpuqueue,gpu_rtx
 dobsub,true
 maxwaittime,28800
-maxupdatetime,900
+maxupdatetime,28800
