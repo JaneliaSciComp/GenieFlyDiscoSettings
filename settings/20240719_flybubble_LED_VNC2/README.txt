@@ -36,4 +36,5 @@ and updates for pipeline changes
 
 turned on jaabadetect stage
 
-
+20240906
+update gpu queue to gpu_l4_large

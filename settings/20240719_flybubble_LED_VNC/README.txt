@@ -37,5 +37,6 @@ left alone stats features since those are still in progress
 
 turned on jaabadetect stage
 
-
+20240906
+update gpu queue to gpu_l4_large
 

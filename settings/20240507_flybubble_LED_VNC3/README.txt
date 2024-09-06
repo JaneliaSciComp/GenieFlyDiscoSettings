@@ -28,3 +28,6 @@ updated the singularity image pointer for cluster upgrade
 added missing parameter to datalocs 
 flytrackerbgstr,movie-bg.mat
 
+20240906
+update gpu queue to gpu_l4_large
+
