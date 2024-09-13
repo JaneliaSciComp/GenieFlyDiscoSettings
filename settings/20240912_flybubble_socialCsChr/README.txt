@@ -36,3 +36,6 @@ merged 20240507_flybubble_LED_VNC3 and 20150915_flybubble_centralcomplex to make
 
 20240912
 updated npad in indicator to get envelop instead of the following pulses. found new value analytically by testing with distinct_pulse_count_from_single_channel_protocol
+
+20240913
+changed queue to gpu_l4

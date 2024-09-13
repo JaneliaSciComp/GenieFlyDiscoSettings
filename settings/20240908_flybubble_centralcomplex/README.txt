@@ -34,3 +34,5 @@ update gpu queue to gpu_l4_large
 20240908 
 merged 20240507_flybubble_LED_VNC3 and 20150915_flybubble_centralcomplex to make flydisco settings directory for reprocessing
 
+20240913
+change gpu queue to gpu_l4
